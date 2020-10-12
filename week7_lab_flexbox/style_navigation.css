@@ -80,6 +80,10 @@ a.nav:hover {
   grid-area: story;
 }
 
+.nav-story:hover {
+  background-color: yellow;
+}
+
 .nav-cart {
   grid-area: cart;
   justify-self: end;
